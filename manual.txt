@@ -1,0 +1,14 @@
+####
+first command: git init
+	this command makefile for git init info
+
+second command:git commit -m "commit info"
+	
+	tip:
+	if you not set user.name and user.email
+	please set them and do next
+	git config user.name or user.email
+third command: git remote add <name> <url>
+add remote info
+
+4th command: git push -u origin master 
